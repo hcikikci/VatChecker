@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Plugin Name: Vat Checker
+ * Plugin Name: Vat Checker v0.1
  * 
  * Plugin URI: github.com/hcikikci/VatChecker
  * Author: Halitcan Çıkıkçı
