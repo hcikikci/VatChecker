@@ -11,6 +11,8 @@
  * License: 0.2.0
  * License URL: http://www.gnu.org/licenses/gpl-2.0.txt
  * text-domain: vatchecker
+ * GitHub Plugin URI: hcikikci/VatChecker
+ * GitHub Plugin URI: https://github.com/hcikikci/VatChecker
 */
 
 include_once('updater.php');
